@@ -1,0 +1,5 @@
+2018-02-08 13:26:33.197 [DEBUG] TestMain: 12 - this is debug
+2018-02-08 13:26:33.199 [INFO] TestMain: 13 - this is info
+2018-02-08 13:26:33.199 [ERROR] TestMain: 14 - this is error
+2018-02-08 13:26:41.986 [INFO] TestMain: 13 - this is info
+2018-02-08 13:26:41.988 [ERROR] TestMain: 14 - this is error
